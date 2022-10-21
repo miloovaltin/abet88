@@ -1,0 +1,16 @@
+{
+"name": "abet88",
+"theme": "abet88",
+"version": "5.6.7",
+"description": "abet88 สมัครเว็บไซต์คาสิโนเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"abet88",
+"abet88 เครดิตฟรี",
+"abet88 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/abet88",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
